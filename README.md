@@ -1,11 +1,11 @@
 # Team-Beta--Project-1
 
-## Proposal
-**Team Beta**
+## Proposal  
+**Team Beta**  
 
-*Dataset to be Used*: [Healthcare-Dataset](https://www.kaggle.com/code/malaychand/healthcare-dataset/input)
-*Project Title*: Patient Cost Optimization
-*Project Description/Outline*: Using patient information to provide recommendations to potential patients broken down by cost
+*Dataset to be Used*: [Healthcare-Dataset](https://www.kaggle.com/code/malaychand/healthcare-dataset/input)  
+*Project Title*: Patient Cost Optimization  
+*Project Description/Outline*: Using patient information to provide recommendations to potential patients broken down by cost  
 
 Breakdown of Tasks:
 * Data Clean
