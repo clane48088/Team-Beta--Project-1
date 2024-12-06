@@ -35,10 +35,19 @@
 * Hospital vs Billing Cost
 * Medical Condition vs Billing Cost
 * Admission Type vs Cost
+* Age vs Insurance Provider
+* Distribution of Insurance Providers
+* Total Days per Hospital
+* Lenght of Stay by Medical Conditions
+* Age vs Avg Billing Cost
+* Blood Type vs Avg Billign Cost
+* Avg Billing Costs by Insurance Provider
 
 ### Conclusion:  
 Recommending potential patients a hospital to go based on cost
 
 ## Research Questions to Answer:  
-1. Find out Hospital Recommendations based on Cost based on demographic information
-2. Cost Ranges per Admission Type
+1. What is the impact of a patient's information to their billing amount
+2. What are some relationships between different elements of the dataset
+3. Based on our findings, who could best utilize the analysis we provided
+
