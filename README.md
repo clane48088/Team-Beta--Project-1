@@ -1,6 +1,6 @@
 # Team-Beta--Project-1
 
-# Select the Starter file for all script. 
+# Select the Starter Folder for all script. 
 
 ## Proposal  
 **Team Beta**  
